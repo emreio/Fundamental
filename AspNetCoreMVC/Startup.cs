@@ -38,6 +38,10 @@ namespace AspNetCoreMVC
 
             app.UseStaticFiles();
 
+            app.UseWelcomePage();
+
+            return;
+
             app.UseMvc(routes =>
             {
                 routes.MapRoute(
