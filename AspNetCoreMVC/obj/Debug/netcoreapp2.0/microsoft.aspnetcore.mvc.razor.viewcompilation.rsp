@@ -1,0 +1,14 @@
+/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC
+--output-path=obj/Debug/netcoreapp2.0/
+--application-name=AspNetCoreMVC
+--content-root=/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC
+--file=/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/Views/Home/About.cshtml
+--file=/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/Views/Home/Contact.cshtml
+--file=/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/Views/Home/Index.cshtml
+--file=/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/Views/Home/Kantar.cshtml
+--file=/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/Views/Shared/Error.cshtml
+--file=/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/Views/Shared/_Layout.cshtml
+--file=/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/Views/Test/Index.cshtml
+--file=/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/Views/_ViewImports.cshtml
+--file=/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/Views/_ViewStart.cshtml

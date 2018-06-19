@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{03AB9D7E-9767-429A-B92D-086D8CA43524}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspNetCoreMVC/Controllers/TestController.cs">
+    <Files>
+      <File FileName="AspNetCoreMVC/Program.cs" Line="21" Column="16" />
+      <File FileName="AspNetCoreMVC/appsettings.json" Line="7" Column="4" />
+      <File FileName="AspNetCoreMVC/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="AspNetCoreMVC/bundleconfig.json" Line="9" Column="6" />
+      <File FileName="AspNetCoreMVC/.bowerrc" Line="4" Column="1" />
+      <File FileName="AspNetCoreMVC/Controllers/TestController.cs" Line="16" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AspNetCoreMVC PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

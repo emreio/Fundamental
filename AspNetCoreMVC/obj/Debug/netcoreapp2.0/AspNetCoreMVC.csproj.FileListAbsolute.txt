@@ -1,0 +1,11 @@
+/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/bin/Debug/netcoreapp2.0/AspNetCoreMVC.deps.json
+/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/bin/Debug/netcoreapp2.0/AspNetCoreMVC.runtimeconfig.json
+/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/bin/Debug/netcoreapp2.0/AspNetCoreMVC.runtimeconfig.dev.json
+/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/bin/Debug/netcoreapp2.0/AspNetCoreMVC.dll
+/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/bin/Debug/netcoreapp2.0/AspNetCoreMVC.pdb
+/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/obj/Debug/netcoreapp2.0/AspNetCoreMVC.csprojResolveAssemblyReference.cache
+/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/obj/Debug/netcoreapp2.0/AspNetCoreMVC.csproj.CoreCompileInputs.cache
+/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/obj/Debug/netcoreapp2.0/AspNetCoreMVC.AssemblyInfoInputs.cache
+/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/obj/Debug/netcoreapp2.0/AspNetCoreMVC.AssemblyInfo.cs
+/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/obj/Debug/netcoreapp2.0/AspNetCoreMVC.dll
+/Users/emrekantar/Projects/AspNetCoreMVC/AspNetCoreMVC/obj/Debug/netcoreapp2.0/AspNetCoreMVC.pdb
