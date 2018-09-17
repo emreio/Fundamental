@@ -5,6 +5,23 @@
     Layout = null;
 }
 
+<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/knockout/knockout-3.4.2.js"></script>
+
 <div>
     @ViewData["TestData"]
+
+    <input type="text" name="myName" id="name" data-bind="value:userName" />
+    <br />
+    <span>Merhaba</span> <label id="lblName" data-bind="text:userName"></label>
+
+    <script type="text/javascript">
+
+        function myViewModel() {
+            this.userName = ko.observable();
+        }
+
+
+        ko.applyBindings(new myViewModel());
+
+    </script>
 </div>
