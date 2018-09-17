@@ -13,7 +13,7 @@ namespace AspNetCoreMVC.Controllers
         // GET: /<controller>/
         public IActionResult Index()
         {
-            ViewData["TestData"] = System.Diagnostics.Process.GetCurrentProcess().ProcessName + " --- " + Environment.MachineName;
+            ViewData["TestData"] = System.Diagnostics.Process.GetCurrentProcess().ProcessName + " ---9 " + Environment.MachineName;
             return View();
         }
     }
